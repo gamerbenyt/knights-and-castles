@@ -24,4 +24,6 @@ The purpose of this mod is to enhance the medieval and fantasy aspects of Minecr
 
 Elevate your Minecraft gameplay with the Knights and Castles Mod for an exciting blend of history and fantasy!
 
-<img src="https://wsrv.nl/?url=http%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Favailable-modrinth.png&amp;n=-1" width="250px"> 
+<a href="https://modrinth.com/mod/knights-and-castles">
+  <img src="https://wsrv.nl/?url=http%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Favailable-modrinth.png&amp;n=-1" width="250px" />
+</a>
