@@ -1,4 +1,4 @@
-[![](https://img.shields.io/modrinth/game-versions/knights-and-castles?logo=modrinth&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) [![CF](https://cf.way2muchnoise.eu/full_1038253.svg)](https://www.curseforge.com/minecraft/mc-mods/knights-and-castles) [![](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles)
+[![](https://img.shields.io/modrinth/game-versions/knights-and-castles?logo=modrinth&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) [![CF](https://cf.way2muchnoise.eu/full_1038253.svg)](https://www.curseforge.com/minecraft/mc-mods/knights-and-castles) [![](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) 
 
 
 <a href="https://modrinth.com/mod/geckolib/version/jK2C8NsI">
