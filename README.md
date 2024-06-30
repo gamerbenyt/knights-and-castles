@@ -1,6 +1,12 @@
 [![](https://img.shields.io/modrinth/game-versions/knights-and-castles?logo=modrinth&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) [![CF](https://cf.way2muchnoise.eu/full_1038253.svg)](https://www.curseforge.com/minecraft/mc-mods/knights-and-castles) [![](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles)
 
-<img src="https://i.imgur.com/uJRh2EV.png" width="250px"> <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Fsupport-forge.png&amp;n=-1" width="250px"> <img src="https://gamerbenyt.sirv.com/Images/Supported%20on%20Neoforge.png" width="250px">
+<a href="https://modrinth.com/mod/geckolib/version/jK2C8NsI">
+  <img src="https://i.imgur.com/uJRh2EV.png" width="250px" />
+</a> <a href="https://files.minecraftforge.net/net/minecraftforge/forge/">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Fsupport-forge.png&amp;n=-1" width="250px" />
+</a> <a href="https://neoforged.net">
+  <img src="https://gamerbenyt.sirv.com/Images/Supported%20on%20Neoforge.png" width="250px" />
+</a>
 
 # Knights and Castles
 ### Description
@@ -29,16 +35,10 @@ Elevate your Minecraft gameplay with the Knights and Castles Mod for an exciting
 </a>
 
 
-<a href="https://modrinth.com/mod/knights-and-castles">
-  <img src="https://i.imgur.com/uJRh2EV.png" width="250px" />
-</a>
 
 
-<a href="https://modrinth.com/mod/knights-and-castles">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Fsupport-forge.png&amp;n=-1" width="250px" />
-</a>
 
-<a href="https://modrinth.com/mod/knights-and-castles">
-  <img src="https://gamerbenyt.sirv.com/Images/Supported%20on%20Neoforge.png" width="250px" />
-</a>
+
+
+
 
