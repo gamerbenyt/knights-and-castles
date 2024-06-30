@@ -27,3 +27,18 @@ Elevate your Minecraft gameplay with the Knights and Castles Mod for an exciting
 <a href="https://modrinth.com/mod/knights-and-castles">
   <img src="https://wsrv.nl/?url=http%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Favailable-modrinth.png&amp;n=-1" width="250px" />
 </a>
+
+
+<a href="https://modrinth.com/mod/knights-and-castles">
+  <img src="https://i.imgur.com/uJRh2EV.png" width="250px" />
+</a>
+
+
+<a href="https://modrinth.com/mod/knights-and-castles">
+  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Fsupport-forge.png&amp;n=-1" width="250px" />
+</a>
+
+<a href="https://modrinth.com/mod/knights-and-castles">
+  <img src="https://gamerbenyt.sirv.com/Images/Supported%20on%20Neoforge.png" width="250px" />
+</a>
+
