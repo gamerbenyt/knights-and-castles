@@ -20,6 +20,9 @@ The Knights and Castles Mod enriches your Minecraft experience by introducing a 
 - **Phoenix:** Discover or summon the mythical phoenix, adding a touch of fantasy to your world.
 - **And Much More!**
 
+### Notes:
+Knights And Castles 1.0.3+ Requires Geckolib
+
 
 <details>
 <summary>Crafting Recipies</summary>
