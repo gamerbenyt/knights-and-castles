@@ -23,6 +23,7 @@ The Knights and Castles Mod enriches your Minecraft experience by introducing a 
 ### Notes:
 Knights And Castles 1.0.3+ Requires Geckolib
 
+## Images
 
 <details>
 <summary>Crafting Recipies</summary>
