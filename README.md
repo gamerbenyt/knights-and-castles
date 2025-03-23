@@ -1,76 +1,64 @@
-[![](https://img.shields.io/modrinth/game-versions/knights-and-castles?logo=modrinth&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) [![CF](https://cf.way2muchnoise.eu/full_1038253.svg)](https://www.curseforge.com/minecraft/mc-mods/knights-and-castles) [![](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles) 
-
-
-<a href="https://modrinth.com/mod/geckolib/version/jK2C8NsI">
-  <img src="https://i.imgur.com/uJRh2EV.png" width="250px" />
-</a> <a href="https://files.minecraftforge.net/net/minecraftforge/forge/">
-  <img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Fsupport-forge.png&amp;n=-1" width="250px" />
-</a> <a href="https://neoforged.net">
-  <img src="https://gamerbenyt.sirv.com/Images/Supported%20on%20Neoforge.png" width="250px" />
-</a> <img src="https://gamerbenyt.sirv.com/Fabric-removebg-preview.png" width="250px" />
-
 # Knights and Castles
-### Description
-The Knights and Castles Mod enriches your Minecraft experience by introducing a variety of medieval-themed entities and items. This mod includes:
 
-- **Medieval Guards:** Protect your villages from threats with these new NPCs.
-- **Undead Knights:** Encounter and battle these fearsome foes during the night.
-- **Noble Knights:** Ally with these brave warriors for extra protection.
-- **New Weapons:** Equip yourself with lances for jousting and katanas for swift combat.
-- **Phoenix:** Discover or summon the mythical phoenix, adding a touch of fantasy to your world.
-- **And Much More!**
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=Modrinth%20Downloads&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles)
+[![License](https://img.shields.io/badge/License-CC--BY--NC--ND-blue)](LICENSE)
 
-### Notes:
-Knights And Castles 1.0.3+ Requires Geckolib
+Knights and Castles is a Minecraft mod that adds medieval-themed content, including new structures, armor, weapons, and more. Dive into a world of knights, castles, and epic adventures!
 
-## Images
+## Features
 
-<details>
-<summary>Crafting Recipies</summary>
+* **Castles and Structures:** Explore randomly generated castles, villages, and other medieval structures.
+* **Knights and Factions:** Encounter knights, soldiers, and potentially factions with unique behaviors.
+* **New Weapons and Armor:** Equip yourself with new swords, axes, bows, and armor sets.
+* **Medieval Items:** Discover and utilize new items like banners, siege equipment, and more.
+* **Custom Mobs:** Fight or befriend new mobs that fit the medieval theme.
+* **Building Blocks:** Utilize new building blocks to create your own medieval structures.
+* **Configurable Options:** Customize the mod's features to fit your gameplay style.
 
-Steel Ingot
+## Installation
+### Modrinth (Reccomended)
+1.  **Download the Modrinth App:**
+    * Open your web browser and go to: [https://modrinth.com/app](https://modrinth.com/app)
+    * Select the download appropriate for your operating system (Windows, macOS, Linux).
+    * Run the installer and follow the on-screen instructions.
 
-![Steelingotcraft](https://cdn.modrinth.com/data/cached_images/88f31ce6979f5ef2b95f787ba5fb1f0bb24a9db0.png)
-  
-Lance (the craft recipie image here is buggy, its fine in game)
-  
-![Lancecraft](https://cdn.modrinth.com/data/cached_images/7864452153284a662d8c2c6b83d9c8e6a77b3e62.png)
+2.  **Install Mods using the Modrinth App:**
+    * Launch the Modrinth App.
+    * (If needed) Create a Minecraft profile, and log in with your minecraft account.
+    * Create an instance and select the correct Forge version.
+    * Go to "Add Project" and search for Knights and Castles.
+    * Click the "Install" button on the mod page.
+    * Go back to the instance and hit "Play".
 
-Steel Shovel
+3.  **Launch Minecraft with Mods:**
+    * Launch Minecraft directly through the Modrinth App.
+    * The app will ensure all installed mods are loaded correctly.
 
-![SteelShovel](https://cdn.modrinth.com/data/cached_images/f7b2a4dad0fe6829fe476febd344b469f8859dcf.png)
+### Jar
+1.  **Install Forge:**
+    * Ensure you have the Forge Loader installed for your Minecraft instance.
 
-Steel Hoe
+2.  **Download the Mod:**
+    * Download the latest release of Knights and Castles from [Modrinth](https://modrinth.com/mod/knights-and-castles).
 
-![Steelhoecraft](https://cdn.modrinth.com/data/cached_images/a0005dc251948aa5665e4c51810f5db1fbef5d57.png)
+3.  **Place in Mods Folder:**
+    * Place the downloaded `.jar` file into your Minecraft's `mods` folder.
 
-Steel Axe (Swaxe)
+4.  **Launch Minecraft:**
+    * Start Minecraft with the Forge profile.
 
-![Steelaxecraft](https://cdn.modrinth.com/data/cached_images/d67135f0585710992576947dbf29f404aabaa635.png)
+## License
 
-Steel Pickaxe
+This project is licensed under the [CC-BY-NC-ND](LICENSE).
 
-![steelpickaxecraft](https://cdn.modrinth.com/data/cached_images/50dda082c81a90355aaefc5d9e1edc4e58a2614e.png)
+## Support
 
+For any questions, issues, or feedback, please:
 
-</details>
+* **Visit Modrinth:** Leave a comment on the Modrinth page.
+* **Open a issue on the Modrinth issue tracker:** If the modrinth platform has an issue tracker, link it.
 
+## Acknowledgments
 
-
-### Purpose
-The purpose of this mod is to enhance the medieval and fantasy aspects of Minecraft, offering new challenges and allies, as well as a range of unique weapons and mythical creatures.
-
-### Why Should You Use This?
-- **Immersive Experience:** Dive into a richly detailed medieval world with new characters and items.
-- **Enhanced Combat:** Enjoy the strategic depth provided by new weapons and enemy types.
-- **Fantasy Elements:** Encounter the legendary phoenix, adding excitement and lore to your adventures.
-- **Village Protection:** Ensure your villages are safe with the help of medieval guards and noble knights.
-
-### About The NF Releases
-The New Neoforge Releases Are Just Ports, Not New Modloaders For This Mod. New Versions Will Still Be Released With FML But We Expanded Our Compatibility With Other Mods By Porting KC to NeoForge! We May Eventually Switch To Neoforge In The Future But For Now, Its Just A Second Modloader Version Of KC.
-
-Elevate your Minecraft gameplay with the Knights and Castles Mod for an exciting blend of history and fantasy!
-
-<a href="https://modrinth.com/mod/knights-and-castles">
-  <img src="https://wsrv.nl/?url=http%3A%2F%2Fcdn.jonasjones.dev%2Fmod-badges%2Favailable-modrinth.png&amp;n=-1" width="250px" />
-</a>
+* Thanks to the Forge community for their excellent tools and support.
+* Any other libraries or resources used.
