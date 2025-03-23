@@ -49,6 +49,14 @@ Knights and Castles is a Minecraft mod that adds medieval-themed content, includ
 
 This project is licensed under the [CC-BY-NC-ND](LICENSE).
 
+### What you **CAN** do:
+* **Share and copy:** You can share and copy the material in any medium or format, as long as it's not modified.
+* **Non-commercial use:** You can use the work for non-commercial purposes.
+
+### What you **CANT** do:
+* **Commercial use:** You cannot use the work for commercial purposes, such as selling it or using it in a way that generates revenue.
+* **Derivatives or Adaptations:** You cannot modify, transform, or build upon the material, meaning you cannot create derivative works or adaptations, unless specifically permitted by the author. 
+
 ## Support
 
 For any questions, issues, or feedback, please:
