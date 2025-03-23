@@ -7,13 +7,11 @@ Knights and Castles is a Minecraft mod that adds medieval-themed content, includ
 
 ## Features
 
-* **Castles and Structures:** Explore randomly generated castles, villages, and other medieval structures.
-* **Knights and Factions:** Encounter knights, soldiers, and potentially factions with unique behaviors.
-* **New Weapons and Armor:** Equip yourself with new swords, axes, bows, and armor sets.
-* **Medieval Items:** Discover and utilize new items like banners, siege equipment, and more.
-* **Custom Mobs:** Fight or befriend new mobs that fit the medieval theme.
-* **Building Blocks:** Utilize new building blocks to create your own medieval structures.
-* **Configurable Options:** Customize the mod's features to fit your gameplay style.
+*   **Medieval Guards:** Protect your villages from threats with these new NPCs.
+*   **Undead Knights:** Encounter and battle these fearsome foes during the night.
+*   **Noble Knights:** Ally with these brave warriors for extra protection.
+*   **New Weapons:** Equip yourself with lances for jousting and katanas for swift combat.
+*   **Phoenix:** Discover or summon the mythical phoenix, adding a touch of fantasy to your world.
 
 ## Installation
 ### Modrinth (Reccomended)
@@ -55,8 +53,7 @@ This project is licensed under the [CC-BY-NC-ND](LICENSE).
 
 For any questions, issues, or feedback, please:
 
-* **Visit Modrinth:** Leave a comment on the Modrinth page.
-* **Open a issue on the Modrinth issue tracker:** If the modrinth platform has an issue tracker, link it.
+* **Open an issue on our issue tracker:** Let us know about suggestions, bugs, and more.
 
 ## Acknowledgments
 
