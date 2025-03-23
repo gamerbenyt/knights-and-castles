@@ -1,7 +1,7 @@
 # Knights and Castles
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/knights-and-castles?logo=modrinth&label=Modrinth%20Downloads&style=flat&color=242629&labelColor=00AF5C&logoColor=white)](https://modrinth.com/mod/knights-and-castles)
-[![License](https://img.shields.io/badge/License-CC--BY--NC--ND-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-Amethyst-blue)](LICENSE)
 
 Knights and Castles is a Minecraft mod that adds medieval-themed content, including new structures, armor, weapons, and more. Dive into a world of knights, castles, and epic adventures!
 
@@ -47,7 +47,7 @@ Knights and Castles is a Minecraft mod that adds medieval-themed content, includ
 
 ## License
 
-This project is licensed under the [CC-BY-NC-ND](LICENSE).
+This project is licensed under the [Amethyst License](LICENSE).
 
 ### What you **CAN** do:
 * **Share and copy:** You can share and copy the material in any medium or format, as long as it's not modified.
@@ -55,7 +55,10 @@ This project is licensed under the [CC-BY-NC-ND](LICENSE).
 
 ### What you **CANT** do:
 * **Commercial use:** You cannot use the work for commercial purposes, such as selling it or using it in a way that generates revenue.
-* **Derivatives or Adaptations:** You cannot modify, transform, or build upon the material, meaning you cannot create derivative works or adaptations, unless specifically permitted by the author. 
+* **Derivatives or Adaptations:** You cannot modify, transform, or build upon the material, meaning you cannot create derivative works or adaptations, unless specifically permitted by the author.
+
+The Amethyst License, and variations of it, are based on CC-BY-NC-ND-4.0 but will not reflect changes made by, or updates to, the Creative Commons BY-NC-ND-4.0 and/or future versions. 
+The Amethyst License is maintained by Amethyst Group (Amethyst) and is designed for our mods.
 
 ## Support
 
