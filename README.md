@@ -60,5 +60,7 @@ For any questions, issues, or feedback, please:
 
 ## Acknowledgments
 
-* Thanks to the Forge community for their excellent tools and support.
-* Any other libraries or resources used.
+### Thanks to our team: 
+* Owner, Lead Developer, Texture Designer, Modeler, Scripter, Animator - Gamer Ben
+* Co-Owner, Model Designer, Texture Designer, Reviewer - Abdouahab
+* Developer, Modeler, Texture Designer, Reviewer - Yaseen
