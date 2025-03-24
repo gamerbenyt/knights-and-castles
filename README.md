@@ -57,7 +57,7 @@ This project is licensed under the [Amethyst License](LICENSE).
 * **Commercial use:** You cannot use the work for commercial purposes, such as selling it or using it in a way that generates revenue.
 * **Derivatives or Adaptations:** You cannot modify, transform, or build upon the material, meaning you cannot create derivative works or adaptations, unless specifically permitted by the author.
 
-The Amethyst License, and variations of it, are based on CC-BY-NC-ND-4.0 but will not reflect changes made by, or updates to, the Creative Commons BY-NC-ND-4.0 and/or future versions.
+The Amethyst License, and variations of it, are based on CC-BY-NC-ND-4.0 but will not reflect changes made by, or updates to, the Creative Commons License's future versions.
 The Amethyst License is maintained by Amethyst Group (Amethyst) and is designed for our mods.
 
 **Please note that the source code for this mod is not provided. This decision is made to protect the intellectual property and creative efforts of our development team, and to maintain control over the mod's distribution and future development.**
